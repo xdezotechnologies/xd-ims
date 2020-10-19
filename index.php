@@ -58,7 +58,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             <a href="user-guides.php" class="nav-link pl-2">User Guides</a>
           </li>
           <li class="nav-item">
-            
+           <button type="submit" class="btn btn-primary btn-sm pl-2 mt-2">Login</button>
           </li>
       </ul>
     </div>
