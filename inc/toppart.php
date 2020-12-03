@@ -1,3 +1,4 @@
+<?php require('connection/config.php'); ?>
 <!DOCTYPE html>
 <html>
 <head>

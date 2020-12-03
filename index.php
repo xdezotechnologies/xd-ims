@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<!--
-This is a starter template page. Use this page to start your new project from
-scratch. This page gets rid of all links and provides the needed markup only.
--->
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -17,7 +13,6 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <link rel="stylesheet" href="assets/dist/css/adminlte.min.css">
   <!-- Google Font: Source Sans Pro -->
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
-  
   <style type="text/css">
     @media only screen and (min-width: 992px) {
       .submit-button {
@@ -36,7 +31,6 @@ scratch. This page gets rid of all links and provides the needed markup only.
       }
     }
   </style>
-
 </head>
 <body class="hold-transition layout-top-nav">
 <div class="wrapper">
@@ -58,7 +52,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             <a href="user-guides.php" class="nav-link pl-2">User Guides</a>
           </li>
           <li class="nav-item">
-           <button type="submit" class="btn btn-primary btn-sm pl-2 mt-2">Login</button>
+            <a href="login.php" class="nav-link font-weight-bold pl-2">Login</a>
           </li>
       </ul>
     </div>
